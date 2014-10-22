@@ -1,0 +1,5 @@
+{
+    "name": "Sembro Token",
+    "symbol": "SMBR",
+    "algorithm": "scrypt"
+}
